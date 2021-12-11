@@ -1,0 +1,12 @@
+Git stores the complete history of your files for a project in a special directory
+ (a.k.a. a folder) called a repository, or repo. Keeping an entire history sounds expensive,
+  but it isn't, because git is smart and does not replicate all your files, and instead keeps
+ only changes to your files. ...
+
+
+ A version Control system is a system that maintains different versions of your project when we work
+  in a team or as an individual. (system managing changes to files) As the project progresses,
+   new features get added to it. 
+So a version control system maintains all your different versions of your project for you and you can 
+rollback to any version you want without causing any trouble to you for maintaining different 
+versions by giving names to it like MyProject, MyProjectWithFeature1, etc.
